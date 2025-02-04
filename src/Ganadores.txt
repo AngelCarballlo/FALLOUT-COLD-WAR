@@ -1,0 +1,6 @@
+angel 2
+kyros 3
+pepin 6
+intento 5
+3 3
+Diego 1
