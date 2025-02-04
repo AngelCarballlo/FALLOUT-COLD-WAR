@@ -14,7 +14,7 @@ FALLOUT COLD WAR es un emocionante videojuego por turnos desarrollado en **Java*
 ## 📥 Instalación y ejecución
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/Fallout-Cold-War.git
+   git clone https://github.com/AngelCarballlo/FALLOUT-COLD-WAR.git
    ```
 2. Abre el proyecto en **Eclipse**.
 3. Asegúrate de tener configurado el **JDK 8+**.
