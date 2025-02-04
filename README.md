@@ -27,7 +27,14 @@ FALLOUT COLD WAR es un emocionante videojuego por turnos desarrollado en **Java*
 4. **¡Último en pie gana!** 🏆 (Posibilidad de empate incluida 🤝)
 5. **Historial de victorias**: Se guarda en un archivo de texto.
 
-## 👨‍💻 Desarrollador
-Creado por **Angel Carballo Gonzalez** 
+## :busts_in_silhouette: Personas Desarrolladoras del Proyecto
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/181472145?v=4" width="150px;" alt="Ángel Carballo González"/><br/>
+      <sub><b><a href="https://github.com/AngelCarballlo" target="_blank">Ángel Carballo González</a></b></sub>
+    </td>
+  </tr>
+</table>
 
 
